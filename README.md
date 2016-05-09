@@ -1,5 +1,6 @@
 ## Jian's Spaceship - CIS 568 VR Project
 
+### [TRAILER](https://www.youtube.com/watch?v=ra4XkazG3OI)
 ### User’s Guide
 
 * Users must be connected to the Steam service
